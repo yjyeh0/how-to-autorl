@@ -1,0 +1,14 @@
+Pillow
+werkzeug==2.0.3
+flask==2.0.3
+swig
+matplotlib==3.5.1
+dehb
+gymnasium
+stable-baselines3[extra]
+gpy
+gpytorch
+gym==0.19.0
+visdom
+openpyxl
+torchvision

@@ -11,4 +11,3 @@ gpytorch
 gym==0.19.0
 visdom
 openpyxl
-torchvision
